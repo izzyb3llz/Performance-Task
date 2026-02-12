@@ -22,4 +22,12 @@ if choice == 'no'
 
 elif choice in coffee_menu:
     # checls if users choice is availibe in the menu
-    if choice == "iced caramel latte"
+    if choice == "Iced latte"
+    tell_customer("Ok, we can do that!")
+elif choice == "Americano"
+    tell_customer("Ok, we can do that!")
+elif choice == "Cappuccino"
+    tell_customer("Ok, we can do that")
+
+    def tell_customer(setup, punchline)
+
