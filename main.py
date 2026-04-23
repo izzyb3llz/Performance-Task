@@ -55,7 +55,3 @@ def tell_customer(tell_customer, choice, get_rating):
     # Pauses for customer response
         print(f"{punchline}\n")
     # Delivers punchline to customer
-
-
-
-
